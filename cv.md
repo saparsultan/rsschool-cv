@@ -45,5 +45,5 @@ Grade: 3.56
 ## #Social media:
 
 github: `https://github.com/saparsultan`\
-linkedin: `https://www.linkedin.com/in/ssyzdykov`
+linkedin: `https://www.linkedin.com/in/ssyzdykov`\
 instagram: `https://www.instagram.com/saparsultan_`
